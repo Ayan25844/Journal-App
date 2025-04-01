@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JournalApplication<journalApp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "net.engineeringdigest.journalApp.JournalApplication",
+            "projectName": "journalApp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
